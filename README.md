@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sakshya10027/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Sakshya10027/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -31,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sakshya10027/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sakshya10027/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sakshya10027/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sakshya10027/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
