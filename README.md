@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sakshya10027/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Sakshya10027/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/Sakshya10027/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sakshya10027/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Sakshya10027/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
