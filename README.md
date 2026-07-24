@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sakshya10027/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/Sakshya10027/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sakshya10027/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [2974-minimum-number-game](https://github.com/Sakshya10027/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sakshya10027/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Sakshya10027/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
