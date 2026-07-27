@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sakshya10027/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/Sakshya10027/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sakshya10027/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Sakshya10027/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [2974-minimum-number-game](https://github.com/Sakshya10027/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 ## Math
 |  |
